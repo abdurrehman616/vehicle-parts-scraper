@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+env/
+
+# Output files
+products.xlsx
+
+# macOS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
