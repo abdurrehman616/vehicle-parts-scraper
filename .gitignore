@@ -7,7 +7,7 @@ venv/
 env/
 
 # Output files
-products.xlsx
+# products.xlsx
 
 # macOS
 .DS_Store
